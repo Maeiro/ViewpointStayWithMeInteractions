@@ -1,0 +1,9 @@
+name=Stay With Me Viewpoint Interactions
+id=ViewpointStayWithMeInteractions
+author=Maeiro
+modversion=0.2.1
+description=Open the Stay With Me companion menu while aiming at your companion in Project Viewpoint.
+require=\ZombieBuddy,\Viewpoint,\Bridge
+versionMin=42.22
+javaJarFile=media/java/client/StayWithMeViewpointInteractions.jar
+javaPkgName=maeiro.staywithme
